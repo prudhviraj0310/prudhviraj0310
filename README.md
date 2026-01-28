@@ -87,14 +87,14 @@
 
   <!-- Random Dev Meme (Fixed) -->
   <h3>😂 Daily Dose of Chaos</h3>
-  <img src="https://media.giphy.com/media/Hp4lpBKvI4EcM/giphy.gif" width="400" alt="Random Meme" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjR5b3Q5ZnA5ZnA5ZnA5ZnA5ZnA5ZnA5ZnA5ZnA5/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Random Meme" />
   
   <br/><br/>
 
-  <!-- Spotify Playing Now (Requires Setup) -->
+  <!-- Spotify Playing Now -->
   <h3>🎵 Vibe Check</h3>
-  <a href="https://spotify-recently-played-readme.vercel.app/api?user=YOUR_SPOTIFY_USER_ID&width=400">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=YOUR_SPOTIFY_USER_ID&width=400" alt="Spotify Playing Now" width="400" />
+  <a href="https://spotify-recently-played-readme.vercel.app/api?user=heyy.prudhvii&width=400">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=heyy.prudhvii&width=400" alt="Spotify Playing Now" width="400" />
   </a>
   
   <br/><br/>
