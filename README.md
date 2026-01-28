@@ -85,16 +85,16 @@
 <!-- FUN SECTION -->
 <div align="center">
 
-  <!-- Random Dev Meme -->
+  <!-- Random Dev Meme (Fixed) -->
   <h3>😂 Daily Dose of Chaos</h3>
-  <img src="https://readme-memes.vercel.app/api" width="400" alt="Random Meme" />
+  <img src="https://media.giphy.com/media/Hp4lpBKvI4EcM/giphy.gif" width="400" alt="Random Meme" />
   
   <br/><br/>
 
   <!-- Spotify Playing Now (Requires Setup) -->
   <h3>🎵 Vibe Check</h3>
-  <a href="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_USER_ID&cover_image=true&theme=novathemusician&bar_color=53b14f&bar_color_cover=false">
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_USER_ID&cover_image=true&theme=novathemusician&bar_color=53b14f&bar_color_cover=false" alt="Spotify Playing Now" width="400" />
+  <a href="https://spotify-recently-played-readme.vercel.app/api?user=YOUR_SPOTIFY_USER_ID&width=400">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=YOUR_SPOTIFY_USER_ID&width=400" alt="Spotify Playing Now" width="400" />
   </a>
   
   <br/><br/>
