@@ -80,6 +80,45 @@
   </a>
 </div>
 
+<br/>
+
+<!-- FUN SECTION -->
+<div align="center">
+
+  <!-- Random Dev Meme -->
+  <h3>😂 Daily Dose of Chaos</h3>
+  <img src="https://readme-memes.vercel.app/api" width="400" alt="Random Meme" />
+  
+  <br/><br/>
+
+  <!-- Spotify Playing Now (Requires Setup) -->
+  <h3>🎵 Vibe Check</h3>
+  <a href="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_USER_ID&cover_image=true&theme=novathemusician&bar_color=53b14f&bar_color_cover=false">
+    <img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_USER_ID&cover_image=true&theme=novathemusician&bar_color=53b14f&bar_color_cover=false" alt="Spotify Playing Now" width="400" />
+  </a>
+  
+  <br/><br/>
+
+  <!-- Random Quote -->
+  <h3>🧘 Zen Mode</h3>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Quote" />
+
+</div>
+
+<br/>
+
+<!-- Secret Section -->
+<div align="center">
+  <details>
+    <summary>🤫 <b>Click for a Secret</b></summary>
+    <br/>
+    <p>You found the secret stash! Here's a cookie 🍪</p>
+    <img src="https://media.tenor.com/images/a74aa97dc28153303c6210f44927df4d/tenor.gif" width="200" />
+    <br/>
+    <i>"Whatever you are, be a good one."</i>
+  </details>
+</div>
+
 <!-- HIDDEN SECTIONS (Enable when billing is fixed)
 3D Graph: <img src="./profile-3d-contrib/profile-night-rainbow.svg" />
 Snake: <img src="https://raw.githubusercontent.com/prudhviraj0310/prudhviraj0310/output/github-contribution-grid-snake-dark.svg" />
