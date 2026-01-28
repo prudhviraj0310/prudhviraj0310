@@ -93,8 +93,8 @@
 
   <!-- Spotify Playing Now -->
   <h3>🎵 Vibe Check</h3>
-  <a href="https://spotify-recently-played-readme.vercel.app/api?user=heyy.prudhvii&width=400">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=heyy.prudhvii&width=400" alt="Spotify Playing Now" width="400" />
+  <a href="https://spotify-recently-played-readme.vercel.app/api?user=31ahhiq5bdp3t7vap356htxz3lee&width=400">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31ahhiq5bdp3t7vap356htxz3lee&width=400" alt="Spotify Playing Now" width="400" />
   </a>
   
   <br/><br/>
