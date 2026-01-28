@@ -47,17 +47,15 @@
 <div align="center">
   <h3>📊 Power Level</h3>
   <br>
-  <p align="center">
-    <a href="https://github.com/prudhviraj0310">
-      <img src="https://github-readme-stats.vercel.app/api?username=prudhviraj0310&show_icons=true&theme=rogue&hide_border=true&count_private=true" alt="Prudhvi's GitHub Stats" />
-    </a>
-    <a href="https://github.com/prudhviraj0310">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=prudhviraj0310&theme=rogue&hide_border=true" alt="GitHub Streak" />
-    </a>
-  </p>
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prudhviraj0310&layout=compact&theme=rogue&hide_border=true" alt="Top Languages" />
-  </p>
+
+  [![Prudhvi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=prudhviraj0310&show_icons=true&theme=radical&hide_border=true&count_private=true)](https://github.com/prudhviraj0310)
+  
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=prudhviraj0310&theme=radical&hide_border=true)](https://github.com/prudhviraj0310)
+  
+  <br/>
+
+  [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=prudhviraj0310&layout=compact&theme=radical&hide_border=true)](https://github.com/prudhviraj0310)
+
 </div>
 
 <br/>
